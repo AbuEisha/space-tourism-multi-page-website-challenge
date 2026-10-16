@@ -32,7 +32,7 @@ export default function Home() {
           <Grid size={{ xs: 12, md: 6 }}>
             <Box
               sx={{
-                maxWidth: "32rem",
+                maxWidth: "27.5rem",
                 marginInline: { xs: "auto", md: 0 },
                 textAlign: { xs: "center", md: "start" },
               }}
